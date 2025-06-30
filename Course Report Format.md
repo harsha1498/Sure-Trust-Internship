@@ -6,7 +6,7 @@
 
 
 <h3 align="center">SURE ProEd (SURE Trust) - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2> Course Name </h2>
+  <h2>  SQL and POWER BI </h2>
 </div>
 
 # Course Report
