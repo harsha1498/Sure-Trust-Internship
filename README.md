@@ -11,7 +11,7 @@
 
 # Course Report
 
-## Name: Sri Harsha
+## Name: Sri Harsha Jampani
 
 ## Qualifications: B.Tech ,Computer Science And Engineering (2023 Passed ) 
 
