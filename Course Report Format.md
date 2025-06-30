@@ -21,7 +21,7 @@ Welcome to the course report for the SQL and POWER BI This README document provi
 
 Below is a table summarizing the mini projects and final project completed during the course:
 
-| Description                                | Link                                    |
-|------------------------------------------- |-----------------------------------------|
-| Mini Projects: Sales Analysis Dashboard    |  https://github.com/harsha1498/Sure-Trust-Internship/tree/43600249d3652712620431e5e1c7879aa86d3945/Power%20BI%20Mini%20Project                     |
-| Final Project: IPL Analysis Dashboard      | https://github.com/harsha1498/Sure-Trust-Internship/tree/0f5ccf3847379ed8b3b80a0a7a89ccb2f292ebc8/Power%20BI%20Capstone%20Project                          |
+| Description                                            | Link                                    |
+|-------------------------------------------             |-----------------------------------------|
+| Mini Projects: Sales Analysis Dashboard                |  https://github.com/harsha1498/Sure-Trust-Internship/tree/43600249d3652712620431e5e1c7879aa86d3945/Power%20BI%20Mini%20Project                     |
+| Final Project: IPL Analysis Dashboard                  | https://github.com/harsha1498/Sure-Trust-Internship/tree/0f5ccf3847379ed8b3b80a0a7a89ccb2f292ebc8/Power%20BI%20Capstone%20Project                          |
