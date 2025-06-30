@@ -18,7 +18,6 @@ This project is a comprehensive Power BI dashboard analyzing all IPL seasons fro
 
 - **Power BI Desktop**
 - **Microsoft Excel** (Power Query for cleaning)
-- **Python (Pandas)** (optional preprocessing)
 - **DAX** for calculations and measures
 
 ## 🗃️ Data Sources
