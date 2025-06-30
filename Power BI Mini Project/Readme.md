@@ -1,4 +1,4 @@
-# Power BI Mini Project
+# Sales Analysis Dashboard
 
 This project is an e-commerce sales analysis dashboard created in Power BI.
 
